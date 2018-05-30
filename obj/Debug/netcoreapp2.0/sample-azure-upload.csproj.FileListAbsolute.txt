@@ -9,3 +9,14 @@ C:\AzureUpload\sample-azure-upload\obj\Debug\netcoreapp2.0\sample-azure-upload.A
 C:\AzureUpload\sample-azure-upload\obj\Debug\netcoreapp2.0\sample-azure-upload.AssemblyInfo.cs
 C:\AzureUpload\sample-azure-upload\obj\Debug\netcoreapp2.0\sample-azure-upload.dll
 C:\AzureUpload\sample-azure-upload\obj\Debug\netcoreapp2.0\sample-azure-upload.pdb
+D:\HSAzure\azuretransfer\bin\Debug\netcoreapp2.0\sample-azure-upload.deps.json
+D:\HSAzure\azuretransfer\bin\Debug\netcoreapp2.0\sample-azure-upload.runtimeconfig.json
+D:\HSAzure\azuretransfer\bin\Debug\netcoreapp2.0\sample-azure-upload.runtimeconfig.dev.json
+D:\HSAzure\azuretransfer\bin\Debug\netcoreapp2.0\sample-azure-upload.dll
+D:\HSAzure\azuretransfer\bin\Debug\netcoreapp2.0\sample-azure-upload.pdb
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.csprojAssemblyReference.cache
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.csproj.CoreCompileInputs.cache
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.AssemblyInfoInputs.cache
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.AssemblyInfo.cs
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.dll
+D:\HSAzure\azuretransfer\obj\Debug\netcoreapp2.0\sample-azure-upload.pdb

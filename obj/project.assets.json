@@ -5439,30 +5439,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zokicpokic\\.nuget\\packages\\": {},
+    "C:\\Users\\Zoran\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AzureUpload\\sample-azure-upload\\sample-azure-upload.csproj",
+      "projectUniqueName": "d:\\HSAzure\\azuretransfer\\sample-azure-upload.csproj",
       "projectName": "sample-azure-upload",
-      "projectPath": "C:\\AzureUpload\\sample-azure-upload\\sample-azure-upload.csproj",
-      "packagesPath": "C:\\Users\\zokicpokic\\.nuget\\packages\\",
-      "outputPath": "C:\\AzureUpload\\sample-azure-upload\\obj\\",
+      "projectPath": "d:\\HSAzure\\azuretransfer\\sample-azure-upload.csproj",
+      "packagesPath": "C:\\Users\\Zoran\\.nuget\\packages\\",
+      "outputPath": "d:\\HSAzure\\azuretransfer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\zokicpokic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Zoran\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
